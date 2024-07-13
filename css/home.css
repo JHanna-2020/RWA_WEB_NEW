@@ -1,3 +1,22 @@
-body{
-  background-color: black;
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+#slogan{
+  font-family: "Oswald", sans-serif;
+  font-size:45px;
+  padding: 10px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: 600;
+  width:100%;
+  padding-bottom: 30px;
+  
+}
+
+#caption{
+  font-family: "Oswald", sans-serif;
 }
